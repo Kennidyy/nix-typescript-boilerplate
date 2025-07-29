@@ -39,7 +39,7 @@ This shell provides:
 ### 3. Initialize the project
 
 ```bash
-yarn init -y
+yarn install
 ```
 
 > The `package.json` and dependencies are already set.
