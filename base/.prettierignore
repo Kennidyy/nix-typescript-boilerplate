@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.directory
+.env
+.tsbuildinfo
+.NOTES.md
