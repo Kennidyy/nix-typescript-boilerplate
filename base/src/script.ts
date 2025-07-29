@@ -1,1 +1,2 @@
-console.log('Enjoy your project man!');
+let name: string = "man";
+console.log(`Enjoy your code ${name}`);
