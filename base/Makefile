@@ -1,5 +1,7 @@
 build:
+	yarn format
 	yarn build
+	clear
 
 dev:
 	yarn dev
